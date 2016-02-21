@@ -3,8 +3,8 @@
 Standard keypad in a cell phone has each digit corresponding to 3 to 4 alphabets mapped as following: 
 
        2 ABC 3 DEF 
-4 GHI  5 JKL 6 MNO 
-7 PQRS 8 TUV 9 WXYZ
+       4 GHI  5 JKL 6 MNO 
+       7 PQRS 8 TUV 9 WXYZ
 
 1 represents a set of special symsbols such as { , . ! ? } and 0 represents a space. 
 
