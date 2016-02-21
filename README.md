@@ -1,7 +1,8 @@
 # T9-Predictive-Text
 
-Implmented with C
-T9.c has main function
+Implmented with C.
+T9.c has main function.
+
 Standard keypad in a cell phone has each digit corresponding to 3 to 4 alphabets mapped as following: 
 
        2 ABC 3 DEF 
